@@ -1,0 +1,4 @@
+torch>=1.12.0
+torchvision>=0.13.0
+einops>=0.4.1
+thop>=0.1.1
